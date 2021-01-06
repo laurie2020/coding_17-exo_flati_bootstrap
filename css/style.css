@@ -7,4 +7,16 @@ header li {
   padding: 15px;
 }
 
+.quote {
+  background-color: #E6E5E4;
+  height: 300px;
+}
+
+.section-2 .carte {
+  background-color: #E6E5E4;
+}
+.section-2 .carte-image {
+  background-color: #324F6D;
+}
+
 /*# sourceMappingURL=style.css.map */
